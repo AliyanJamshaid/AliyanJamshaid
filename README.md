@@ -1,5 +1,5 @@
 <a href="https://aliyanjamshaid.com">
-  <img width="100%" alt="Aliyan Jamshaid, full-stack and AI engineer" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:011627,60:0b2942,100:2f5fc4&section=header&text=Aliyan%20Jamshaid&fontColor=d6deeb&fontSize=54&fontAlignY=36&desc=Full-stack%20%26%20AI%20engineer%20%C2%B7%20Team%20lead%20%C2%B7%20Lahore%2C%20Pakistan&descSize=18&descAlignY=58&animation=fadeIn" />
+  <img width="100%" alt="Aliyan Jamshaid, full-stack and AI engineer" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:011627,60:0b2942,100:2f5fc4&section=header&text=Aliyan%20Jamshaid&fontColor=d6deeb&fontSize=54&fontAlignY=36&desc=Full-stack%20and%20AI%20engineer%20%C2%B7%20Team%20lead%20%C2%B7%20Lahore%2C%20Pakistan&descSize=18&descAlignY=58&animation=fadeIn" />
 </a>
 
 <p align="center">
@@ -25,7 +25,7 @@ const aliyan = {
   based: "Lahore, Pakistan (UTC+5)",
   clients: ["United States", "United Kingdom"],
   builds: ["AI agents & RAG", "real-time web & mobile apps", "AWS media & data pipelines"],
-  team: "Lead two engineers: architecture standards and code review",
+  team: "Lead a team of engineers: architecture standards and code review",
 };
 ```
 
